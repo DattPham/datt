@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://dulichviet.com.vn/images/bandidau/viet-nam-canh-dep-xung-tam-quoc-te.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+h1{
+    color: crimson;
+    front-size: 50px;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    front-weight: 700;
+    front-style: normal;
+    line-height: 100px;
+    background-color: aqua;
+}
+h2{
+    front-size: 40px;
+    font-family: "Roboto", sans-serif;
+    front-weight: 700;
+    front-style: normal;
+    color: white
+}
+p{
+    front-size: 25px;
+    front-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+    color: white
+}
